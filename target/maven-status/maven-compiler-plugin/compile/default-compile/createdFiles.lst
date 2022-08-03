@@ -1,0 +1,6 @@
+com\sistemabancario\representation\RepresentationApplication.class
+com\sistemabancario\representation\domain\Representation.class
+com\sistemabancario\representation\controller\RepresentationController.class
+com\sistemabancario\representation\repository\IRepresentationRepository.class
+com\sistemabancario\representation\service\IRepresentationService.class
+com\sistemabancario\representation\service\impl\RepresentationService.class
